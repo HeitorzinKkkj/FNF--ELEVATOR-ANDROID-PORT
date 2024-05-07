@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="gnarpy" folder="" >
+	<sprite name="pixel"               x="0" y="0"   sprite="pixel"   scale="9998.0"    scroll="0" />
+	<girlfriend x="14444"/>
+	<dad />
+	<boyfriend scale="0.7"/>
+</stage>
